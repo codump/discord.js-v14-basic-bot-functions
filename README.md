@@ -6,6 +6,8 @@
   - `/automsgmention` Automated message with mention.
   - `/code` How to use code on discord.
   - `/jsfiddle` Ask to start a jsfiddle.
+  - `/kick` Kick a member.
+  - `/ban` Ban a member.
 - Auto roles.
 - Join and leave notification.
 - Notification when someone starts streaming on discord.
