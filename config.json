@@ -1,0 +1,15 @@
+{
+	"consoleLogErrors": "true",
+	"clientId": "",
+	"guildId": "",
+	"token": "",
+	"welcomeChannel": "",
+	"byeChannel": "",
+	"rolesChannel": "",
+	"livestreamChannel": "",
+	"releasePingRole": "",
+	"githubChannel": "",
+	"githubWebhookId": "",
+	"githubWebhookToken": "",
+	"iDumpRole": ""
+}
