@@ -31,6 +31,10 @@
 Fill in the `config.json` with the correct values.
 
 
+## Update
+If you already used this repo and want to update to the warning command you need to install mongoose:
+`npm install mongoose@latest`
+
 ## Run
 First time use:
 - `node deploy-commands.js` on first time use. And every time you add a command.
