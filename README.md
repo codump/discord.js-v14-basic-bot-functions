@@ -17,7 +17,7 @@
 ## What u need
 - Installed [node.js](https://nodejs.org/en/download/)
 - Installed [git](https://github.com/git-guides/install-git) <sup>(if you choose to use git clone)</sup>
-- MongoDB Atlas <sup>(if you want to store warnings)</sup>
+- MongoDB [Atlas](https://www.mongodb.com/cloud/atlas/register) <sup>(if you want to store warnings)</sup>
 
 
 
