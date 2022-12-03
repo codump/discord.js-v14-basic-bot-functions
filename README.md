@@ -8,6 +8,7 @@
   - `/jsfiddle` Ask to start a jsfiddle.
   - `/kick` Kick a member.
   - `/ban` Ban a member.
+  - `/warning` Warn a member and store it in DB.
 - Auto roles.
 - Join and leave notification.
 - Notification when someone starts streaming on discord.
