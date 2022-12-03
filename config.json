@@ -3,6 +3,7 @@
 	"clientId": "",
 	"guildId": "",
 	"token": "",
+	"mongoURI": "",
 	"welcomeChannel": "",
 	"byeChannel": "",
 	"rolesChannel": "",
