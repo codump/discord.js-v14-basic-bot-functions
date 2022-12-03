@@ -30,10 +30,13 @@ Fill in the `config.json` with the correct values.
 
 
 ## Run
-- `node index.js` start up the bot.
+First time use:
 - `node deploy-commands.js` on first time use. And every time you add a command.
-- Change `commandId` in the script, then run `node delete-command.js` to delete.
 - `node insert-roles.js` on first time use. And when you want to add new roles.
+
+Scripts:
+- `node index.js` start up the bot.
+- Change `commandId` in the script, then run `node delete-command.js` to delete.
 
 
 
