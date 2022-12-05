@@ -12,5 +12,7 @@
 	"githubChannel": "",
 	"githubWebhookId": "",
 	"githubWebhookToken": "",
-	"iDumpRole": ""
+	"iDumpRole": "",
+	"ticketParent": "",
+	"ticketChannel": ""
 }
