@@ -13,6 +13,7 @@
 - Join and leave notification.
 - Notification when someone starts streaming on discord.
 - GitHub notifications. <sup>(Releases, push, pull and more depending on your gh webhook settings.)</sup>
+- Ticket channel system.
 
 ## What u need
 - Installed [node.js](https://nodejs.org/en/download/)
@@ -39,6 +40,7 @@ If you already used this repo and want to update to the warning command you need
 First time use:
 - `node deploy-commands.js` on first time use. And every time you add a command.
 - `node insert-roles.js` on first time use. And when you want to add new roles.
+- `node insert-ticket.js` on first time use. Or when you accidentally deleted the ticket post.
 
 Scripts:
 - `node index.js` start up the bot.
