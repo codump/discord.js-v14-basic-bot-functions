@@ -4,9 +4,9 @@ module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('code')
 		.setDescription('Show how to use code on discord.')
-		.addUserOption(option => option.setName('target').setDescription('Mention the member.').setRequired(false)),
+		.addUserOption(option => option.setName('mention').setDescription('Mention the member.').setRequired(false)),
 	async execute(interaction) {
-		const member = interaction.options.getMember('target');
+		const member = interaction.options.getMember('mention');
 		const exampleEmbed = new EmbedBuilder()
 			.setColor(0x00b646)
 			.addFields(
