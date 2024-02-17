@@ -1,4 +1,4 @@
-# Discord.js v14 basic bot functions (still in development)
+# Discord.js v14 basic bot functions
 
 ## Features
 - The new slash commands.
